@@ -6,4 +6,4 @@ Suppose, an entrepreneur wants to find out whether the location he/she is openin
 Further, the results of the analysis could provide useful insights for public planning officials for neighborhood-level development and crime prevention by focusing education and other poverty-reducing resources
 
 
-Venue data is gathered using the Foursquare API, neighborhood demographics are gathered from various sources from the US Census Bureau, and crime data is taken from the relevant police authority databases. The data processing and sources are described in detail in [Data.md](https://github.com/potato-bit/Coursera_Capstone/blob/master/Data.md)
+Venue data is gathered using the Foursquare API, neighborhood demographics are gathered from various sources from the US Census Bureau, and crime data is taken from the relevant police authority databases. The data processing and sources are described in detail in [Data.md](https://github.com/potato-bit/Coursera_Capstone/blob/master/Data.md#data)
